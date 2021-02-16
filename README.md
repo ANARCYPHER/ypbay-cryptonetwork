@@ -37,13 +37,13 @@ If you'd like to contribute to ypbay-cryptonetwork, please read the following in
 
 # Resources
 * [Medium](https://medium.com/@coredevs) ypbay-cryptonetwork's official technical articles are published there.
-* [Documentation](https://tronprotocol.github.io/documentation-en/introduction/) ypbay-cryptonetwork's official technical documentation website.
+* [Documentation](https://ypbayprotocol.github.io/documentation-en/introduction/) ypbay-cryptonetwork's official technical documentation website.
 * [Test network](http://nileex.io/) A stable test network of ypbay-cryptonetwork contributed by YPBAY community.
-* [YPscan](https://tronscan.org/#/) ypbay-cryptonetwork blockchain browser.
-* [Wallet-cli](https://github.com/tronprotocol/wallet-cli) ypbay-cryptonetwork wallet using command line.
-* [TIP](https://github.com/tronprotocol/tips) ypbay-cryptonetwork Improvement Proposal (TIP) describes standards for the ypbay-cryptonetwork.
-* [TP](https://github.com/tronprotocol/tips/tree/master/tp) ypbay-cryptonetwork Protocol (TP) describes standards already implemented in TRON network but not published as a TIP.
-* [White Paper](https://tron.network/resources?lng=&name=1) White paper of ypbay-cryptonetwork.
+* [YPscan](https://ypscan.org/#/) ypbay-cryptonetwork blockchain browser.
+* [Wallet-cli](https://github.com/ypbayprotocol/wallet-cli) ypbay-cryptonetwork wallet using command line.
+* [TIP](https://github.com/ypbayprotocol/tips) ypbay-cryptonetwork Improvement Proposal (TIP) describes standards for the ypbay-cryptonetwork.
+* [TP](https://github.com/ypbayprotocol/tips/tree/master/tp) ypbay-cryptonetwork Protocol (TP) describes standards already implemented in YPBAY network but not published as a TIP.
+* [White Paper](https://ypbay.network/resources?lng=&name=1) White paper of ypbay-cryptonetwork.
 
 # License
 ypbay-cryptonetwork
