@@ -1,9 +1,12 @@
+0101110101110011010010001101110001000110001000011111001001001110010101011001011011000010000010011100111001011101110001011011100010
+0110001100011010001010011010011110000000011000011011111001111011000100101101110111101101111110100001100110101011001000000111001110
+0100011001010010010000001001010110010011000110101111100101100110100001000011010110101110010101111000000111101011111011101011011010
 
 ## What's ypbay-cryptonetwork?
 
 YPBAY is a project dedicated to building the infrastructure for a truly decentralized Internet.
 
-* ypbay-cryptonetwork Protocol, one of the largest blockchain-based operating systems in the world, offers scalable, high-availability and high-throughput support that underlies all the decentralized applications in the TRON ecosystem.
+* ypbay-cryptonetwork Protocol, one of the largest blockchain-based operating systems in the world, offers scalable, high-availability and high-throughput support that underlies all the decentralized applications in the YPBAY net.
 
 * ypbay-cryptonetwork Virtual Machine (TVM) allows anyone to develop decentralized applications (DAPPs) for themselves or their communities with smart contracts thereby making decentralized crowdfunding and token issuance easier than ever.
 
